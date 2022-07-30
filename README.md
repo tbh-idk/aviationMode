@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aviationMode
-- 👀 I’m interested in aviation
+- 👀 I’m interested in aviation (among other stuff)
 <!-- 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
