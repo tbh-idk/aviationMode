@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aviationMode
+- 👋 Hi, I’m @tbh-idk
 - 👀 I’m interested in aviation (among other stuff)
 <!-- 
 - 🌱 I’m currently learning ... 
