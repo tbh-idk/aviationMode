@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tbh-idk
-- 👀 I’m interested in aviation (among other stuff)
+- 👀 I’m interested in aviation✈️, mahjong🀄️(among other stuff)
 <!-- 
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning discord bots in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
